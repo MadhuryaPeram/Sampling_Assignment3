@@ -14,4 +14,4 @@ Stochastic Gradient Descent,
 K-Nearest Neighbours,
 Logistic Regression
 
-Highest accuracy is achieved by using Random Forest against Sample3: SMOTE
+Highest accuracy is achieved by using XG Boost against Sample3: SMOTE
