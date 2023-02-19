@@ -9,7 +9,7 @@ Sample5: Systematic
 
 Models Used:
 XG Boost,
-Desicion Tree,
+Decision Tree,
 Stochastic Gradient Descent,
 K-Nearest Neighbours,
 Logistic Regression
