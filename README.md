@@ -8,7 +8,7 @@ Sample4: SMOTE-ENN,
 Sample5: Systematic
 
 Models Used:
-RandomForest,
+XG Boost,
 Desicion Tree,
 Stochastic Gradient Descent,
 K-Nearest Neighbours,
